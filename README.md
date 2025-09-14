@@ -74,3 +74,10 @@ kubectl get svc -A
 
 └─ Namespace: user → User management service pods and service
 
+
+## Source / Acknowledgment
+
+This project is a sample microservices application originally provided by **IBM Instana** for learning purposes.  
+It has been adapted here for deployment on **Azure Kubernetes Service (AKS)** using **Helm charts**.
+
+
